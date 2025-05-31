@@ -1,0 +1,5 @@
+baseurl: ""
+title: Natural Health Tips
+description: Your guide to a healthier life
+markdown: kramdown
+theme: minima
